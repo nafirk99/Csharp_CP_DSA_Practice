@@ -1,0 +1,15 @@
+F:\Csharp_CP_DSA_Practice\Array\ArrayPractice\ArrayPractice\bin\Debug\net8.0\ArrayPractice.exe
+F:\Csharp_CP_DSA_Practice\Array\ArrayPractice\ArrayPractice\bin\Debug\net8.0\ArrayPractice.deps.json
+F:\Csharp_CP_DSA_Practice\Array\ArrayPractice\ArrayPractice\bin\Debug\net8.0\ArrayPractice.runtimeconfig.json
+F:\Csharp_CP_DSA_Practice\Array\ArrayPractice\ArrayPractice\bin\Debug\net8.0\ArrayPractice.dll
+F:\Csharp_CP_DSA_Practice\Array\ArrayPractice\ArrayPractice\bin\Debug\net8.0\ArrayPractice.pdb
+F:\Csharp_CP_DSA_Practice\Array\ArrayPractice\ArrayPractice\obj\Debug\net8.0\ArrayPractice.GeneratedMSBuildEditorConfig.editorconfig
+F:\Csharp_CP_DSA_Practice\Array\ArrayPractice\ArrayPractice\obj\Debug\net8.0\ArrayPractice.AssemblyInfoInputs.cache
+F:\Csharp_CP_DSA_Practice\Array\ArrayPractice\ArrayPractice\obj\Debug\net8.0\ArrayPractice.AssemblyInfo.cs
+F:\Csharp_CP_DSA_Practice\Array\ArrayPractice\ArrayPractice\obj\Debug\net8.0\ArrayPractice.csproj.CoreCompileInputs.cache
+F:\Csharp_CP_DSA_Practice\Array\ArrayPractice\ArrayPractice\obj\Debug\net8.0\ArrayPractice.sourcelink.json
+F:\Csharp_CP_DSA_Practice\Array\ArrayPractice\ArrayPractice\obj\Debug\net8.0\ArrayPractice.dll
+F:\Csharp_CP_DSA_Practice\Array\ArrayPractice\ArrayPractice\obj\Debug\net8.0\refint\ArrayPractice.dll
+F:\Csharp_CP_DSA_Practice\Array\ArrayPractice\ArrayPractice\obj\Debug\net8.0\ArrayPractice.pdb
+F:\Csharp_CP_DSA_Practice\Array\ArrayPractice\ArrayPractice\obj\Debug\net8.0\ArrayPractice.genruntimeconfig.cache
+F:\Csharp_CP_DSA_Practice\Array\ArrayPractice\ArrayPractice\obj\Debug\net8.0\ref\ArrayPractice.dll
