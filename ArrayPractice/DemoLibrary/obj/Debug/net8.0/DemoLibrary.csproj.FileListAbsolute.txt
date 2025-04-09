@@ -1,0 +1,12 @@
+F:\Csharp_CP_DSA_Practice\Array\ArrayPractice\DemoLibrary\bin\Debug\net8.0\DemoLibrary.deps.json
+F:\Csharp_CP_DSA_Practice\Array\ArrayPractice\DemoLibrary\bin\Debug\net8.0\DemoLibrary.dll
+F:\Csharp_CP_DSA_Practice\Array\ArrayPractice\DemoLibrary\bin\Debug\net8.0\DemoLibrary.pdb
+F:\Csharp_CP_DSA_Practice\Array\ArrayPractice\DemoLibrary\obj\Debug\net8.0\DemoLibrary.GeneratedMSBuildEditorConfig.editorconfig
+F:\Csharp_CP_DSA_Practice\Array\ArrayPractice\DemoLibrary\obj\Debug\net8.0\DemoLibrary.AssemblyInfoInputs.cache
+F:\Csharp_CP_DSA_Practice\Array\ArrayPractice\DemoLibrary\obj\Debug\net8.0\DemoLibrary.AssemblyInfo.cs
+F:\Csharp_CP_DSA_Practice\Array\ArrayPractice\DemoLibrary\obj\Debug\net8.0\DemoLibrary.csproj.CoreCompileInputs.cache
+F:\Csharp_CP_DSA_Practice\Array\ArrayPractice\DemoLibrary\obj\Debug\net8.0\DemoLibrary.sourcelink.json
+F:\Csharp_CP_DSA_Practice\Array\ArrayPractice\DemoLibrary\obj\Debug\net8.0\DemoLibrary.dll
+F:\Csharp_CP_DSA_Practice\Array\ArrayPractice\DemoLibrary\obj\Debug\net8.0\refint\DemoLibrary.dll
+F:\Csharp_CP_DSA_Practice\Array\ArrayPractice\DemoLibrary\obj\Debug\net8.0\DemoLibrary.pdb
+F:\Csharp_CP_DSA_Practice\Array\ArrayPractice\DemoLibrary\obj\Debug\net8.0\ref\DemoLibrary.dll
