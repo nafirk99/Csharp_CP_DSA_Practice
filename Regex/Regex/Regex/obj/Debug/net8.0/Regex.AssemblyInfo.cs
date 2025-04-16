@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Regex")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bbec62ed828d88f78a0053664f1997d543f0e768")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e9cec09bac256ca642e1cbab5da3bb22cc6d35a4")]
 [assembly: System.Reflection.AssemblyProductAttribute("Regex")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Regex")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
