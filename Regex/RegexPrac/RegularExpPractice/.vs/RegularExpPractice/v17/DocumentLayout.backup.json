@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Project\\Csharp_CP_DSA_Practice\\Regex\\RegexPrac\\RegularExpPractice\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{836D2A04-36C9-4889-974C-B1A50F8FEED1}|RegularExpPractice\\RegularExpPractice.csproj|e:\\project\\csharp_cp_dsa_practice\\regex\\regexprac\\regularexppractice\\regularexppractice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{836D2A04-36C9-4889-974C-B1A50F8FEED1}|RegularExpPractice\\RegularExpPractice.csproj|solutionrelative:regularexppractice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Project\\Csharp_CP_DSA_Practice\\Regex\\RegexPrac\\RegularExpPractice\\RegularExpPractice\\Program.cs",
+              "RelativeDocumentMoniker": "RegularExpPractice\\Program.cs",
+              "ToolTip": "E:\\Project\\Csharp_CP_DSA_Practice\\Regex\\RegexPrac\\RegularExpPractice\\RegularExpPractice\\Program.cs",
+              "RelativeToolTip": "RegularExpPractice\\Program.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAAEAAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T06:48:42.404Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
